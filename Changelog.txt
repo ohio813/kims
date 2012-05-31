@@ -1,11 +1,14 @@
 ***************************************************************************************
 The TIniFile class uses the Windows API which imposes a limit of 64KB
-on INI files. If you need to store more than 64KB of data
+on INI files.
 ***************************************************************************************
 
 
 CHANGELOG KIMS - DSR!
 ------------------------
+RC4  - 30/05/2012 (Wiseblood)
+	[*] Add notes/command bug fix
+
 RC3  - 06/04/2012 (No Regrets)
 	[*] Download bug fix
 	[*] More code cleanup
